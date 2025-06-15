@@ -71,4 +71,4 @@ While this frontend is static, it is designed to mirror the routing structure of
 This project is for educational and portfolio purposes only. Not affiliated with Tesla, Inc.
 
 ## 👩‍💻 Author
-Nikhita Rachael | GitHub
+Nikhita Rachael Antonette | GitHub
