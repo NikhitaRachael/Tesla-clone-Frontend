@@ -24,8 +24,8 @@ Tesla-clone-Frontend/
 ├── cybertruck.html
 ├── 404.html
 └── static/
-└── css/
-└── style.css
+    └── css/
+       └── style.css
 ```
 
 ---
