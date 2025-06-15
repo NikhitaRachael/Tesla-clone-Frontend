@@ -1,7 +1,0 @@
-{
-  "cleanUrls": true,
-  "rewrites": [],
-  "redirects": [],
-  "headers": [],
-  "fallback": "404.html"
-}
