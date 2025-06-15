@@ -7,7 +7,7 @@ This is the frontend of the Tesla Clone project. It includes a responsive homepa
 ## 🌐 Live Demo
 
 Frontend URL (Vercel): [https://tesla-clone-frontend.vercel.app](https://tesla-clone-frontend.vercel.app)  
-Backend API (Flask on Render): [https://tesla-clone-backend.onrender.com](https://tesla-clone-backend.onrender.com)
+Backend API (Flask on Render): [https://tesla-clone-56tq.onrender.com](https://tesla-clone-56tq.onrender.com)
 
 ---
 # Tesla Clone Backend Repository (Render)
